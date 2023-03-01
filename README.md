@@ -1,5 +1,6 @@
-# birrometri
-Beer flow sensor&amp;meter
+# Beer-O-Meter
+
+Measuring and controlling the flow of beer in a draft machine.
 
 Electrical Components:
   - Arduino Mega
