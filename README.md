@@ -54,8 +54,6 @@ The heart of this project is the Arduino code, which manages:
 ## Community & Contributions
 This project is fully open source, and contributions are highly encouraged! Whether you’re interested in refining the code, improving the hardware design, or adding new features, your input is welcome. Please feel free to fork the repository, submit issues, or send pull requests.
 
-For questions, suggestions, or to discuss improvements, join the conversation on our GitHub page.
-
 ---
 
 Cheers to innovative technology and smarter beer dispensing! 🍻
