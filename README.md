@@ -30,7 +30,7 @@ The heart of this project is the Arduino code, which manages:
 
 *(For complete details, please refer to the Arduino sketch included in the repository.)*
 
-![diagram](https://github.com/sepse/beer-o-meter/blob/main/Graphics/diagram.jpg)
+![diagram](https://github.com/sepse/beer-o-meter/blob/2b8236aca60c05cf57184622bd903c082112dea9/Graphics/diagram.jpg)
 
 ## Installation & Usage
 
