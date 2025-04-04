@@ -29,6 +29,7 @@ The heart of this project is the Arduino code, which manages:
 - **Flow Control**: Activates the electronic valve based on pre-defined thresholds to ensure controlled dispensing.
 
 *(For complete details, please refer to the Arduino sketch included in the repository.)*
+![diagram](https://github.com/sepse/beer-o-meter/blob/main/Graphics/diagram.jpg)
 
 ## Installation & Usage
 
